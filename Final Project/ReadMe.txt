@@ -1,0 +1,1 @@
+The html folder was not made because of an error where my CSS and pictures would not load despite correctly linking them. They work perfectly outsided the folder. I have been using the live server program in my visual studio code and have been using brave browser. 

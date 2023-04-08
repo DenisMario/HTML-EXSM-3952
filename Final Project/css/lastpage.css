@@ -1,0 +1,12 @@
+article {
+    border: 2px solid #000000;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    font-size: 25px;
+  }
+
+body{
+    text-align: left;
+    background-color: rgb(245, 212, 212);
+}
